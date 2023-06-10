@@ -5,7 +5,7 @@
 "Police Information Room": ["208 0034", "208 0035"],
 "Toll Free (Complaint)": "8002345",
 
-"Police": {"Nord": ["264 9709", "264971010"],
+"Police": ["Nord","264 9709", "264971010"],
 "South": ["627 7216", "627 3112"],
 "Central": ["676 5116", "670 3112"],
 "East": ["413 0944", "413 0279"],
@@ -24,5 +24,4 @@
 "Brigade des Mineurs": ["213 4093"],
 "Police du Tourisme": ["213 1740", "210 3894"],
 "Police de L'Environment": ["210 5151", "210 5252"]
-}
 }

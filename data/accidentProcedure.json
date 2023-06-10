@@ -1,7 +1,7 @@
 {"Constat à L'Amiable": ["The Road Traffic Act has been amended whereby it is no longer mandatory for you to call the police to the spot of accident before moving the vehicles involved in an accident. You however have to fill-in a form called the 'Agreed Statement of Facts' in cases where there are no dispute. If there is dispute the form should not be filled and the accident must be reported to the nearest police station. If any of the vehicles does not have an 'Insurance Vignette' on the front windscreen then the form should not be filled."], 
 "Claims": [
     "Here are some guidelines that we recommend our clients to follow in case their vehicle(s) is/are involved in a road accident where the AGREED STATEMENT OF FACTS form cannot be used:",
-    "FOR ACCIDENTS WHICH FALL UNDER THE ROAD TRAFFIC (AMENDMENT No 3) ACT 2003 *-When two drivers agree on the circumstances of the accident, please read section two below.",
+    "#FOR ACCIDENTS WHICH FALL UNDER THE ROAD TRAFFIC (AMENDMENT No 3) ACT 2003 *-When two drivers agree on the circumstances of the accident, please read section two below.",
     "~- Do not move your vehicle from the spot unless ordered by the Police to do so.",
     "~- Put the hazard lights on and place the reflecting triangles at a reasonable distance from the rear of the vehicle.",
     "~- Do not leave the damaged vehicle unattended.",
@@ -21,7 +21,7 @@
     "~(f) Please note that it is an offence under the Act if you do not notify the accident to your insurer and if you do not forward the AGREED STATEMENT OF FACTS form to your insurer within 5 days from the date of the accident.",
     "~(g) Furthermore, it is important to note that we cannot entertain any claim if we do not receive a duly completed MOTOR ACCIDENT CLAIM FORM of GFA Insurance Ltd. The driver must call at the office accompanied by the Policyholder to produce his driving licence and National Identity Card to complete the MOTOR VEHICLE ACCIDENT REPORT FORM.",
     "~(h) Also, follow the guidelines as per the brochure. Or Telephone our Claims Department as above.",
-    "NB: DO NOT FORGET WHEN YOU ARE DRIVING A VEHICLE TO HAVE THE INSURANCE VIGNETTE, YOUR DRIVING LICENCE, AN AGREED STATEMENT OF FACTS FORM, AN INDELIBLE YELLOW CHALK OR YELLOW INDELIBLE MARKER, AND ANY OTHER EQUIPMENT AS REQUIRED BY THE LAW."
+    "#NB: DO NOT FORGET WHEN YOU ARE DRIVING A VEHICLE TO HAVE THE INSURANCE VIGNETTE, YOUR DRIVING LICENCE, AN AGREED STATEMENT OF FACTS FORM, AN INDELIBLE YELLOW CHALK OR YELLOW INDELIBLE MARKER, AND ANY OTHER EQUIPMENT AS REQUIRED BY THE LAW."
     ]
 
 }
